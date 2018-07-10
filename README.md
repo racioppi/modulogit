@@ -1,4 +1,6 @@
-Meu primeiro sistema no Git.
+Meu segundo sistema no Git.
 
 Alterar o que eu quiser.
-Alteração feita no master!
+
+Alguma nova linha legal (modificação feita na aula de Diferença de arquivos)
+Mais uma linha aqui
